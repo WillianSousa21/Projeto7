@@ -1,0 +1,94 @@
+body{
+    background-color: whitesmoke;
+    vertical-align: 2px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.geral{
+    width: 1080px;
+    height: auto;
+    background-color: white;
+    margin: 0px auto;
+    padding: 0;
+}
+
+.cabecalho{
+    width: 1080px;
+    height: 200px;
+    background-color: black;
+    font-family: Arial;
+    font-size: 40px;
+    float: left;
+    color: white;
+    display: block;
+
+}
+.cabecalho_cadastro {
+    width: 1080px;
+    height: 100px;
+    background-color: black;
+    font-family: Arial;
+    font-size: 40px;
+    float: left;
+    color: white;
+    display: block;
+
+}
+.conteudo{
+    width: 1080px;
+    height: auto;
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    font-size: 15pt;
+}
+.texto { font-size: 19pt;
+
+}
+h1{
+    font-size: 50pt;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.rodape{
+    width: 1080px;
+    height: 50px;
+    background-color: black;
+}
+table, th, td {
+    border:1px solid;
+    width: auto;
+    height: 50px;
+    padding: 10px 20px;
+
+}
+.no{border: 0 solid;}
+
+ul.menu {
+    padding:  0;
+    margin-left: px;
+    }
+
+ul.menu li{
+        display: inline;
+   }
+ul.menu li a{
+        background: black;
+        color:blanchedalmond;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 0px 0 15px 0;
+    }
+    
+    ul.menu li a:hover{
+        background: whitesmoke;
+        color: blue;
+    }
+    table.cadastro, td{ border: 0px;
+        
+    }
+    input{
+        height: 40px;
+        width: 200px;
+    }
